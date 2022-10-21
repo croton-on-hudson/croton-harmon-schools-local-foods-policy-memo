@@ -1,8 +1,6 @@
 # Policy Memo - Notes
 
-## Concept
-
-Increase use of local foods from local farms in local school district.
+Research for developing a memo on how to use and increase usage of local foods from local farms in local school district.
 
 ## Federal policies governing school foods
 
