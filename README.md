@@ -219,7 +219,7 @@ Ideas:
 
 ## School food service director policies governing school foods
 
-- Croton-Harmon SFA Contract Manager is Denise Harrington-Cohen: denise.cohen@chufsd.org, 914-271-4713
+- Croton-Harmon SFA Contract Manager is Denise Harrington-Cohen, Assistant Superintendent for Business: denise.cohen@chufsd.org, 914-271-4713
 - Aramark Food Service Director is Eric Nickelson: Child.Nutrition@chufsd.org, 914-271-2191
 
 Ideas:
