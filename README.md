@@ -168,6 +168,8 @@ School districts are required to have a local student wellness policy (LSWP) tha
 
 Ideas:
 
+- see mention of these policies below in sfa/district discussion
+
 ### School Food Authority / School District policies & programs governing local schools
 
 SFA versus School District
