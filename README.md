@@ -116,6 +116,7 @@ The Farm to School Program helps child nutrition providers incorporate local foo
 - USDA guide to Procuring Local Foods, including a webinar series: https://www.fns.usda.gov/f2s/procuring-local-foods
 - Cornell Cooperative Extension Farm-to-School website: https://cals.cornell.edu/cornell-cooperative-extension/join-us/new-york-state-farm-school/
 - Cornell Cooperative Extension guide for producers to [Selling NY Produce to NY Schools](https://harvestny.cce.cornell.edu/uploads/doc_218.pdf)
+- American Farmland Trust provides professional development opportunities for staff and educators to help refine their Farm to School programs. https://finys.org/programs/new-york-farm-school-institute
 - Croton-Harmon does not seem to have participated in the Farm to School Census and does not show up in their SFA search tool.
 
 Ideas:
@@ -123,6 +124,7 @@ Ideas:
 - modify district policy to require school food-related occupations to participate in Farm to School training
 - contact Kristy Apostolides (845.429.7085 x106; kda4@cornell.edu) of the Cornell Cooperative Extension for support: https://cals.cornell.edu/cornell-cooperative-extension/join-us/new-york-state-farm-school/connect-farm-school
 - pursue grants from USDA to support Farm to School efforts
+- consider establishing a Farm to School Coordinator position with professional development from American Farmland Trust and assistance from Cornell Cooperative Extension to help coordinate efforts
 - work with food consultant, such as HMB Consultants, to develop a plan to participate in the Farm to School program
 
 ## NY State policies & programs governing school foods
@@ -162,11 +164,24 @@ Ideas:
 
 The Food Metrics Law requires the Commissioner of Education to develop a statewide system to measure the nutritional quality of foods served in schools and a procurement policy to ensure that schools purchase foods that meet the nutritional standards established by the Commissioner. The origin of the foods purchased must be tracked.
 
+- the current law does not require keeping track of processed versus unprocessed foods.
 - law text: https://legislation.nysenate.gov/pdf/bills/2013/S4061
 
 ### Buy NY Program
 
 The 2013 Buy Now Program was a pilot program designed to increase the amount of NYS food products purchased by state-run institutions, including school districts, by providing a 10% reimbursement for the purchase of NYS food products, funded by the NYS Department of Agriculture and Markets and administered by the NYS Department of Education.
+
+This was a project under the Cuomo administration. It is unclear whether this still continues.
+
+### Farm to Institution New York State
+
+[Farm to Institution New York State](https://finys.org/) is an initiative of the [American Farmland Trust](https://farmland.org/) to increase the amount of local food purchased by public institutions in NYS, including schools, aiming for 25% of food purchases to be local by 2025.
+
+- The New York Academy of Medicine released a report aligning with the aims of this initiative: https://farmlandinfo.org/wp-content/uploads/sites/2/2019/09/POL_PublicPlateFINAL11_1_17.pdf
+
+Ideas:
+
+- make a policy goal of spending at least 25% of food budget on food grown and raised in NYS farms, in accordance with the Farm to Institution New York initiative.
 
 ## Local policies governing school foods
 
