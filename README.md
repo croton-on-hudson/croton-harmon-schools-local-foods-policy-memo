@@ -113,6 +113,7 @@ The Farm to School Program helps child nutrition providers incorporate local foo
 - Information: https://www.fns.usda.gov/farmtoschool
 - Grant opportunities: https://www.fns.usda.gov/f2s/farm-school-grant-program
 - Farm to School Census: https://farmtoschoolcensus.fns.usda.gov/, including search by state: https://farmtoschoolcensus.fns.usda.gov/census-results/states/ny.
+- USDA guide to Procuring Local Foods, including a webinar series: https://www.fns.usda.gov/f2s/procuring-local-foods
 - Cornell Cooperative Extension Farm-to-School website: https://cals.cornell.edu/cornell-cooperative-extension/join-us/new-york-state-farm-school/
 - Cornell Cooperative Extension guide for producers to [Selling NY Produce to NY Schools](https://harvestny.cce.cornell.edu/uploads/doc_218.pdf)
 - Croton-Harmon does not seem to have participated in the Farm to School Census and does not show up in their SFA search tool.
@@ -156,6 +157,16 @@ Ideas:
 - contact Kristy Apostolides (845.429.7085 x106; kda4@cornell.edu) of the Cornell Cooperative Extension for support: https://cals.cornell.edu/cornell-cooperative-extension/join-us/new-york-state-farm-school/connect-farm-school
 - engage consultants (HMB or other) to determine how to modify the district's food service to qualify for the 30% Initiative
 - require eligibility in future bids for food service management contracts from Aramark and others
+
+### NYS Food Metrics Law
+
+The Food Metrics Law requires the Commissioner of Education to develop a statewide system to measure the nutritional quality of foods served in schools and a procurement policy to ensure that schools purchase foods that meet the nutritional standards established by the Commissioner. The origin of the foods purchased must be tracked.
+
+- law text: https://legislation.nysenate.gov/pdf/bills/2013/S4061
+
+### Buy NY Program
+
+The 2013 Buy Now Program was a pilot program designed to increase the amount of NYS food products purchased by state-run institutions, including school districts, by providing a 10% reimbursement for the purchase of NYS food products, funded by the NYS Department of Agriculture and Markets and administered by the NYS Department of Education.
 
 ## Local policies governing school foods
 
@@ -201,7 +212,8 @@ Board of Education involvement (or lack thereof):
 - Croton-Harmon Board of Education did not recommend endorsing the NYS School Boards Association's 2022 proposed resolution #17: https://go.boarddocs.com/ny/chufsd/Board.nsf/files/CJWJJ84D255A/$file/NYSSBA%20Proposed%20Resolutions%20Booklet%202022.pdf
   - proposed resolution #17 text: `RESOLVED, that the New York State School Boards Association joins statewide advocacy efforts to support healthy, high-quality school meals through the Child Nutrition Reauthorization (CNR).`
   - the rationale from the board association document makes it clear that this is designed to improve access to fresh foods and to fight the problem of school food systems that are not designed with student health in mind
-  - in their [10/6/2022 meeting](http://go.boarddocs.com/ny/chufsd/Board.nsf/goto?open&id=CHZP3V629331), the Board of Education recommended endorsing other resolutions (8, 27, 31, 32) and recommended against endorsing others (1, 9, 15, 16, 20) but conspicuously makes no mention of #17
+  - the CNR would increase the level of mandatory funding for Farm to School programs from $5M to $15M per year and would improve districts' ability to purchase local and unprocessed foods and establish pilot programs to reduce food waste and procurement of more plant-based foods, inaddition to other benefits and increased reimbursements to participants of the National School Lunch and School Breakfast Programs. See benefits here: https://frac.org/wp-content/uploads/FRAC-CNR-Summary-July-2022-FINAL.pdf
+  - in their [6 October 2022 meeting](http://go.boarddocs.com/ny/chufsd/Board.nsf/goto?open&id=CHZP3V629331), the Board of Education recommended endorsing other resolutions (8 - supporting universal pre-K; 27, 31, 32 - opposing charter schools) and recommended against endorsing others (1 - supporting incorporation of art and music into curriculum; 9, 15, 16, 20) but conspicuously makes no mention of #17.
 
 Ideas:
 
