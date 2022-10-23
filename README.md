@@ -2,6 +2,8 @@
 
 Research for developing a memo on how to use and increase usage of local foods from local farms in local school district.
 
+- [View the final memo](https://docs.google.com/document/d/1loZ9C2cHq_N37QMbORiB9osrf3qwDWoxMWAMViUD60w/edit?usp=sharing)
+
 ## Federal policies governing school foods
 
 - USDA search tool for Food & Nutrition resources: https://www.fns.usda.gov/resources
